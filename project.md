@@ -10,3 +10,4 @@ Explore the `students` data using PostgreSQL to find out if you would come to a 
 Here is a data description of the columns you may find helpful.
 ![Capture d’écran 2024-10-27 à 18 18 47](https://github.com/user-attachments/assets/7cfb989a-883c-4271-8d77-d93a6a42bc48)
 ![Capture d’écran 2024-10-27 à 18 16 13](https://github.com/user-attachments/assets/301045f0-0033-41f9-9871-9c2460695e9d)
+![Capture d’écran 2024-10-27 à 18 19 12](https://github.com/user-attachments/assets/0b8d7b4c-3251-42db-8b03-0182eb9d84a0)
